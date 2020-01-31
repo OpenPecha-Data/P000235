@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ཕྱག་རྒྱ་ཆེན་པོའི་སྒྲོས་འབུམ་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། ༧ཀརྨ་པ་མི་བསྐྱོད་རྡོ་རྗེ།
+  sku: VVI-MD-005
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: An Outline of Mahamudra
+    bo: ཕྱག་རྒྱ་ཆེན་པོའི་སྒྲོས་འབུམ་བཞུགས་སོ།།
+  collection:
+    en: VVI Mikyo Dorje Series–  Book 5
+    bo: མི་བསྐྱོད་རྡོ་རྗེ་གསུང་།–  དེབ། ༥
+  author:
+    en: Eighth Karmapa Mikyo Dorje
+    bo: ཀརྨ་པ་སྐུ་ཕྲེང་བརྒྱད་པ་མི་བསྐྱོད་རྡོ་རྗེ།
+  pusblisher:
+    en: Vajra Vidya Institute
+    bo: བཛྲ་བིདྱཱ་གཙུག་ལག་སློབ་གཉེར་ཁང་།
+  sku: VVI-MD-005
+  category:
+    en: Mahamudra
+    bo: ཕྱག་རྒྱ་ཆེན་པོ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: VVI-MD-005.epub
+  description:
+    en: ''
+    bo: ''

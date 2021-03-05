@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000235
+initial_creation_type: ebook
+source_metadata:
   title: ཕྱག་རྒྱ་ཆེན་པོའི་སྒྲོས་འབུམ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ༧ཀརྨ་པ་མི་བསྐྱོད་རྡོ་རྗེ།
-  sku: VVI-MD-005
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - yigchung
+  id: VVI-MD-005
 web_metadata:
   title:
     en: An Outline of Mahamudra
